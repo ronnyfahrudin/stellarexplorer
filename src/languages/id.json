@@ -34,7 +34,7 @@
   "distributers": "Distributor(s)",
 
   "effect": "Efek",
-  "effects": "Efek",
+  "effects": "Efek-efeknya",
 
   "error.cant.find": "Tidak dapat menemukan \"{searchStr}\"",
   "error.nothing.found": "Tidak ada di \"{path}\"",
@@ -54,11 +54,11 @@
   "filter-active.for": "Filter aktif untuk",
   "filter.for-operation-type": "Filter untuk Tipe Operasi",
   "filter.more-data-possibly-available": "Mungkin Terlalu banyak pengambilan, crawling dihentikan setelah batas tertentu karena tidak ada cara untuk mengetahui apakah ada lebih banyak kecocokan. Buka halaman berikutnya untuk melanjutkan crawling.",
-  "flags": "Bendera",
+  "flags": "Tanda",
 
   "hash": "Hash",
-  "home": "Rumah",
-  "home.domain": "Domain Rumah",
+  "home": "Halaman Awal",
+  "home.domain": "Domain Awal",
 
   "inflation": "Inflasi",
   "invalid.account": "Akun tidak valid",
@@ -75,7 +75,7 @@
   "logo": "Logo",
 
   "key": "Kunci",
-  "key.public": "Kenci Publik",
+  "key.public": "Kunci Publik",
 
   "max.transactions": "Maksimal Transaksi",
   "memo": "Memo",
